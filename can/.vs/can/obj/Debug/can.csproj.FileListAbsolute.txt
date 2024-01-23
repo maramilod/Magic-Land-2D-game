@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\can\can\bin\Debug\can.exe.config
+C:\Users\LENOVO\source\repos\can\can\bin\Debug\can.exe
+C:\Users\LENOVO\source\repos\can\can\bin\Debug\can.pdb
+C:\Users\LENOVO\source\repos\can\can\obj\Debug\can.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\can\can\obj\Debug\can.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\can\can\obj\Debug\can.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\can\can\obj\Debug\can.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\can\can\obj\Debug\can.exe
+C:\Users\LENOVO\source\repos\can\can\obj\Debug\can.pdb
+C:\Users\LENOVO\source\repos\can\can\obj\Debug\can.Screens.num.resources
+C:\Users\LENOVO\source\repos\can\can\obj\Debug\can.MainForm.resources
+C:\Users\LENOVO\source\repos\can\can\obj\Debug\can.forrm.resources
+C:\Users\LENOVO\source\repos\can\can\obj\Debug\can.Screens.product.resources
